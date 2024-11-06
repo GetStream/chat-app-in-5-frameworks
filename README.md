@@ -14,4 +14,10 @@ It shows how to build a chat app in:
 
 For more details, clone the repo, check the code, or watch the full video.
 
+This project uses [Stream](https://getstream.io/)'s battle-tested chat infrastructure. Check out our:
+
+- ⭐ [Chat API](https://getstream.io/chat/)
+- 📱 [Video API](https://getstream.io/video/)
+- 🔔 [Activity Feeds](https://getstream.io/activity-feeds/)
+
 If you have questions or want to see more apps in more frameworks, please reach [out on X](https://x.com/getstream_io).
